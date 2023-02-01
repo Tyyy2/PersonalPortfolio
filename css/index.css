@@ -190,7 +190,7 @@ body .portfolio .portfolio-wrap {
 }
 body .portfolio .portfolio-wrap a {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 body .portfolio .portfolio-wrap a:hover {
   color: aqua;
